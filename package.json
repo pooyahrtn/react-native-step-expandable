@@ -1,0 +1,29 @@
+{
+  "name": "react-native-step-expandable",
+  "version": "1.0.0",
+  "description": "React Native Step Expandable View",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/pooyahrtn/react-native-step-expandable",
+  "keywords": [
+    "React",
+    "native",
+    "Animation",
+    "Step",
+    "Expandable"
+  ],
+  "author": "Pooya Haratian",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "peerDependencies": {
+    "react-native": "*",
+    "react": "*"
+  }
+}
