@@ -15,7 +15,7 @@
     "Expandable"
   ],
   "author": "Pooya Haratian",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-jest": "23.6.0",
     "jest": "23.6.0",
