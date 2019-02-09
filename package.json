@@ -1,6 +1,6 @@
 {
   "name": "react-native-step-expandable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Step Expandable View",
   "main": "index.js",
   "scripts": {
